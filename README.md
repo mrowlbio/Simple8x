@@ -1,7 +1,7 @@
 # Simple8x
 A simple pvp texturepack for minetest.
 
-**Goals
+**Goals**
 
 * Be simple
 * Easy to run on low end hardware
