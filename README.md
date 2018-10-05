@@ -20,6 +20,10 @@ A simple pvp texturepack for minetest.
  * Clone this repository into `~/.minetest/textures` by doing `git clone https://github.com/mrowlbio/Simple8x.git`.
  * To update it just do git pull in the folder for this texturepack `git pull`.
 
+**Thanks TO**
+ * Thanks to caoutiouspotato for some help! :D
+ * Inspired by DOOMed's mini8x
+
 ## Usage
 
 * Open minetest
