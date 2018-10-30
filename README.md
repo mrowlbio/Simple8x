@@ -33,7 +33,9 @@ A simple pvp texturepack for minetest.
 
 **Todo**
 
--[ ]  Add textures for protect mod
+- [ ] Add textures for protection mod
+- [ ] Mesecons
+- [x] Farming mod
 
 ## License
 
